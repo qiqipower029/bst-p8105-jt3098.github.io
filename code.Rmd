@@ -8,6 +8,8 @@ Sometimes you need to say a bit about the site -- how it was made, where it's ho
 
 If this is for a project or analysis, I recommend giving some details about the R package versions that you used to create the content.
 
+my index page is [here](index.html)
+
 ```{r}
 library(tidyverse)
 
