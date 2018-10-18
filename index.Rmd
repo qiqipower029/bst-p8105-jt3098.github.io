@@ -18,5 +18,5 @@ I can link directly to my [about page](about.html).
 
 ### Pictures
 
-<img src="image/image.jpg" style="width:75%">
+<img src="image/image.jpg" style="width:55%">
 
