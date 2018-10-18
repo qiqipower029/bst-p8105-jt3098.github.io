@@ -4,7 +4,7 @@ navbar:
   title: "Home"
   right:
     - text: "Google"
-      href: http://github.com/bst-p8105-jt3098
+      href: http://github.com/bst-p8105-jt3098/
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg

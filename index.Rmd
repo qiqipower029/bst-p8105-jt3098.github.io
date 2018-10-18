@@ -20,3 +20,8 @@ I can link directly to my [about page](about.html).
 
 <img src="image/image.jpg" style="width:55%">
 
+### I can add codes
+
+My code page is [here](code.html)
+
+
