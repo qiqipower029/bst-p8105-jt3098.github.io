@@ -13,4 +13,4 @@ navbar:
       href: https://github.com/qiqipower029/bst-p8105-jt3098.github.io.git
 output:
   html_document:
-  theme: cosmo
+    theme: cosmo
